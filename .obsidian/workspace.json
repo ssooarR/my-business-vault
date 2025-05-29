@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Templates/Zielkunden-Profil __ (Name des Kunden - Kundensegments).md",
+                "file": "01-Strategisch/1-00-Business-Plan/10. Chancen, Risiken & Vision.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Zielkunden-Profil __ (Name des Kunden - Kundensegments)"
+              "title": "10. Chancen, Risiken & Vision"
             }
           },
           {
@@ -278,11 +278,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3bbbc496f12f3f00",
+  "active": "3bd5ccfdb09e50f1",
   "lastOpenFiles": [
+    "01-Strategisch/1-00-Business-Plan/9. Finanzen & Kapitalbedarf.md",
+    "01-Strategisch/1-00-Business-Plan/8. Team & Umsetzung.md",
+    "01-Strategisch/1-00-Business-Plan/7. Geschäftsmodell & Einnahmen.md",
+    "01-Strategisch/1-00-Business-Plan/6. Marketing & Kundengewinnung.md",
+    "01-Strategisch/1-00-Business-Plan/5. Zielmarkt & Wettbewerb.md",
+    "01-Strategisch/1-00-Business-Plan/4. Angebot & Monetarisierung.md",
+    "01-Strategisch/1-00-Business-Plan/3. Lösung – Die Strukturkraft-Architektur.md",
+    "01-Strategisch/1-00-Business-Plan/2. Problem & Zielgruppe.md",
+    "01-Strategisch/1-00-Business-Plan/1. Executive Summary.md",
+    "01-Strategisch/1-01-Marketing/Produktname.md",
+    "00-Templates/Zielkunden-Profil __ (Name des Kunden - Kundensegments).md",
     "03-Werbung&Vertrieb/03-01-Kunden",
     "01-Strategisch/🚀 7-Stunden-Umsetzungsplan – Digital Growth Architecture.md",
-    "00-Templates/Zielkunden-Profil __ (Name des Kunden - Kundensegments).md",
     "2_Zielkontrolle_und_Meilensteine.md",
     "01-Strategisch/1-02-Stakeholder/1-02-01-staatl-Förderungen/foerderkompass-2025.pdf",
     "Ziele-Plan 30-60-90 Tage – Strukturkraft mit To-Dos.md",
@@ -297,25 +307,15 @@
     "3_Akquise_ready_machen.md",
     "2_Vertriebsunterlagen.md",
     "1_Businessplan_entwerfen.md",
-    "01-Strategisch/1-00-Business-Plan/1. Executive Summary.md",
     "01-Strategisch/1-00-Business-Plan/10. Chancen, Risiken & Vision.md",
-    "01-Strategisch/1-00-Business-Plan/9. Finanzen & Kapitalbedarf.md",
-    "01-Strategisch/1-00-Business-Plan/8. Team & Umsetzung.md",
-    "01-Strategisch/1-00-Business-Plan/7. Geschäftsmodell & Einnahmen.md",
-    "01-Strategisch/1-00-Business-Plan/6. Marketing & Kundengewinnung.md",
-    "01-Strategisch/1-00-Business-Plan/5. Zielmarkt & Wettbewerb.md",
     "01-Strategisch/1-02-Stakeholder/1-02-01-staatl-Förderungen",
     "01-Strategisch/1-02-Stakeholder",
     "foerderkompass.pdf.crdownload",
-    "01-Strategisch/1-01-Marketing/📄 Angebots-PDF (Textversion für 1–2 Seiten Handout).md",
-    "01-Strategisch/1-00-Business-Plan/4. Angebot & Monetarisierung.md",
-    "01-Strategisch/1-00-Business-Plan/3. Lösung – Die Strukturkraft-Architektur.md",
     "99-Archiv",
     "00-Templates",
     "01-Strategisch/1-00-Business-Plan/Nicht bestätigt 549483.crdownload",
     "Nicht bestätigt 708041.crdownload",
     "01-Strategisch/1-00-Business-Plan",
-    "01-Strategisch/1-01-Marketing",
     "Unbenannt.canvas",
     "Unbenannt 1.canvas"
   ]
