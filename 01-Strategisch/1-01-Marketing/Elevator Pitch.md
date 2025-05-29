@@ -1,0 +1,3 @@
+> Viele Bau- und Handwerksbetriebe wachsen – aber chaotisch. Marketing bringt Leads, aber es fehlt an Struktur im Vertrieb, in den Prozessen und im Zusammenspiel der Tools.  
+> Ich helfe mittelständischen Betrieben, ihr Umsatzsystem in 3 Phasen aufzubauen: Analyse, Architektur und Umsetzung.  
+> Das Ergebnis: Klarer Fokus, besserer Fluss vom Lead bis zur Leistung – und nachhaltiges Wachstum ohne Dauerstress.

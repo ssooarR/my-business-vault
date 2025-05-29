@@ -8,89 +8,81 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f50696c84c5fef0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Inbox/Meine Affirmation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": true,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Meine Affirmation"
-            }
-          },
-          {
-            "id": "0f9b807bf967d867",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Inbox/RevOps oder Growth Marketing.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "RevOps oder Growth Marketing"
-            }
-          },
-          {
-            "id": "0825627b5c8bfe8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Noco DB.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Noco DB"
-            }
-          },
-          {
             "id": "2136b4c0662a9dad",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01-Strategisch/1-00-Business-Plan/7-Stunden-Umsetzungsplan_Obsidian.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "7-Stunden-Umsetzungsplan_Obsidian"
+            }
+          },
+          {
+            "id": "3bd5ccfdb09e50f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Strategisch/1-00-Business-Plan/7-Stunden-Umsetzungsplan_Obsidian.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "7-Stunden-Umsetzungsplan_Obsidian"
+            }
+          },
+          {
+            "id": "f597b005017d1de2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Strategisch/1-01-Marketing/Elevator Pitch.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Elevator Pitch"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -211,12 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01-Strategisch/1-00-Business-Plan/Inhaltsverzeichnis_Digital_Growth_Architecture.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung"
+              "title": "Gliederung von Inhaltsverzeichnis_Digital_Growth_Architecture"
             }
           },
           {
@@ -248,54 +241,16 @@
       "command-palette:Befehlspalette öffnen": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "periodic-notes:Open today": false
     }
   },
-  "floating": {
-    "id": "00eb44b74ea138e1",
-    "type": "floating",
-    "children": [
-      {
-        "id": "8a7e31a438781516",
-        "type": "window",
-        "children": [
-          {
-            "id": "38717566c332755e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8ba40a5191914f9e",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://publish.obsidian.md/git-doc/Getting+Started",
-                    "title": "Getting Started - Git Documentation - Obsidian Publish",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Getting Started - Git Documentation - Obsidian Publish"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 851,
-        "y": 100,
-        "width": 1026,
-        "height": 1082,
-        "maximize": false,
-        "zoom": 1
-      }
-    ]
-  },
-  "active": "2136b4c0662a9dad",
+  "active": "f597b005017d1de2",
   "lastOpenFiles": [
     "01-Strategisch/1-00-Business-Plan/7-Stunden-Umsetzungsplan_Obsidian.md",
+    "01-Strategisch/1-01-Marketing/Elevator Pitch.md",
+    "1_Businessplan_entwerfen.md",
     "01-Strategisch/1-00-Business-Plan/Inhaltsverzeichnis_Digital_Growth_Architecture.md",
+    "Kernbotschaft.md",
     "01-Strategisch/1-00-Business-Plan/Nicht bestätigt 549483.crdownload",
     "Nicht bestätigt 708041.crdownload",
     "01-Strategisch/1-00-Business-Plan",
@@ -308,7 +263,6 @@
     "03-Werbung&Vertrieb",
     "2025-05-29 - Business Roll-Out TAG.md",
     "Business Vision.md",
-    "Unbenannt.md",
     "01-Rituale/01-Tagesnotizen/2025-05-29.md",
     "Noco DB.md",
     "04-Templates/Tools & Apps.md",
@@ -328,8 +282,6 @@
     "04-Templates/phase-2-notiz-template.md",
     "03-Impulse/Vorlage - \"Klarheit schaffen\".md",
     "03-Impulse/01-KI-Impulse/Die Perspektive der kreativen Zerstörung (Creative Destruction)**.md",
-    "04-Templates/lernpfad-markdown-gpt.md",
-    "01-Rituale/01-Tagesnotizen/2025-05-23.md",
     "Unbenannt.canvas",
     "Unbenannt 1.canvas"
   ]
