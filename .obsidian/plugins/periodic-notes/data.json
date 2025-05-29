@@ -1,0 +1,32 @@
+{
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": true,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "folder": "01-Rituale/01-Tagesnotizen",
+    "template": "04-Templates/🤝 gpt-sparring.md",
+    "enabled": true,
+    "format": "YYYY-MM-DD"
+  },
+  "weekly": {
+    "format": "",
+    "template": "04-Templates/ki-rueckspiegel/weekly-meta.md",
+    "folder": "01-Rituale/02-Wochennotizen",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "quarterly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "yearly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  }
+}

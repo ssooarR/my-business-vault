@@ -1,0 +1,364 @@
+{
+  "main": {
+    "id": "7a6230eff8ba8305",
+    "type": "split",
+    "children": [
+      {
+        "id": "b42a171f8d096557",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f50696c84c5fef0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Inbox/Meine Affirmation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": true,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Meine Affirmation"
+            }
+          },
+          {
+            "id": "0f9b807bf967d867",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Inbox/RevOps oder Growth Marketing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "RevOps oder Growth Marketing"
+            }
+          },
+          {
+            "id": "0825627b5c8bfe8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Noco DB.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Noco DB"
+            }
+          },
+          {
+            "id": "2136b4c0662a9dad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Business Vision.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Business Vision"
+            }
+          },
+          {
+            "id": "628fac6b5240a7d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Strategisch/1-00-Business-Plan/7-Stunden-Umsetzungsplan_Obsidian.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "7-Stunden-Umsetzungsplan_Obsidian"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c789b4ad3de2be2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "985784d2a630d3a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bcb5f9c6efd98d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "d445e2236d02164a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "0c4cfd27095d74f8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 251.5
+  },
+  "right": {
+    "id": "d710202c57f0cd4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c704da672a9d65ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66a700e5328e2b40",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01-Rituale/01-Tagesnotizen/2025-05-23.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise für 2025-05-23"
+            }
+          },
+          {
+            "id": "c4ce614bc482fdf1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Willkommen.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links von Willkommen öffnen"
+            }
+          },
+          {
+            "id": "876e0dbb18156c7e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4c2650015c923de4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Markdown Importprogramm öffnen": false,
+      "workspaces:Workspace-Layouts verwalten": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+    }
+  },
+  "floating": {
+    "id": "00eb44b74ea138e1",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8a7e31a438781516",
+        "type": "window",
+        "children": [
+          {
+            "id": "38717566c332755e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8ba40a5191914f9e",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://publish.obsidian.md/git-doc/Getting+Started",
+                    "title": "Getting Started - Git Documentation - Obsidian Publish",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Getting Started - Git Documentation - Obsidian Publish"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 851,
+        "y": 100,
+        "width": 1026,
+        "height": 1082,
+        "maximize": false,
+        "zoom": 1
+      }
+    ]
+  },
+  "active": "8ba40a5191914f9e",
+  "lastOpenFiles": [
+    "01-Strategisch/1-00-Business-Plan/7-Stunden-Umsetzungsplan_Obsidian.md",
+    "01-Strategisch/1-00-Business-Plan/Inhaltsverzeichnis_Digital_Growth_Architecture.md",
+    "01-Strategisch/1-00-Business-Plan/Nicht bestätigt 549483.crdownload",
+    "Nicht bestätigt 708041.crdownload",
+    "01-Strategisch/1-00-Business-Plan",
+    "01-Strategisch/1-01-Marketing",
+    "07-Operativ/7-1-Infrastruktur",
+    "07-Operativ",
+    "06-Logistik",
+    "05-Service+Support",
+    "04-Produktion",
+    "03-Werbung&Vertrieb",
+    "2025-05-29 - Business Roll-Out TAG.md",
+    "Business Vision.md",
+    "Unbenannt.md",
+    "01-Rituale/01-Tagesnotizen/2025-05-29.md",
+    "Noco DB.md",
+    "04-Templates/Tools & Apps.md",
+    "06-Themen/tools-und-apps zu KI-Sparring.md",
+    "Eigener Mailserver.md",
+    "04-Templates/neues-tool.md",
+    "plane.so.md",
+    "Strapi.io.md",
+    "CMS - free.md",
+    "Docmost.md",
+    "00-Inbox/RevOps oder Growth Marketing.md",
+    "00-Inbox/AutoGen Chat.md",
+    "00-Inbox/Meine Affirmation.md",
+    "01-Rituale/01-Tagesnotizen/2025-05-27.md",
+    "04-Templates/🤝 gpt-sparring.md",
+    "README.md",
+    "04-Templates/phase-2-notiz-template.md",
+    "03-Impulse/Vorlage - \"Klarheit schaffen\".md",
+    "03-Impulse/01-KI-Impulse/Die Perspektive der kreativen Zerstörung (Creative Destruction)**.md",
+    "04-Templates/lernpfad-markdown-gpt.md",
+    "01-Rituale/01-Tagesnotizen/2025-05-23.md",
+    "Unbenannt.canvas",
+    "Unbenannt 1.canvas"
+  ]
+}

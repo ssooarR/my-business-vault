@@ -1,0 +1,10 @@
+{
+  "accentColor": "#08e2d4",
+  "cssTheme": "PLN",
+  "theme": "obsidian",
+  "baseFontSize": 14,
+  "interfaceFontFamily": "Poppins,Merriweather",
+  "textFontFamily": "Poppins",
+  "nativeMenus": false,
+  "baseFontSizeAction": true
+}
