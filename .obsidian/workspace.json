@@ -249,20 +249,31 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01-Strategisch/1-00-Business-Plan/7-Stunden-Umsetzungsplan_Obsidian.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung"
+              "title": "Gliederung von 7-Stunden-Umsetzungsplan_Obsidian"
+            }
+          },
+          {
+            "id": "3bbbc496f12f3f00",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 342.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -320,7 +331,7 @@
       }
     ]
   },
-  "active": "8ba40a5191914f9e",
+  "active": "3bbbc496f12f3f00",
   "lastOpenFiles": [
     "01-Strategisch/1-00-Business-Plan/7-Stunden-Umsetzungsplan_Obsidian.md",
     "01-Strategisch/1-00-Business-Plan/Inhaltsverzeichnis_Digital_Growth_Architecture.md",
