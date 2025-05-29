@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Strategisch/1-00-Business-Plan/7-Stunden-Umsetzungsplan_Obsidian.md",
+                "file": "00-Templates/Zielkunden-Profil __ (Name des Kunden - Kundensegments).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,16 +54,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "7-Stunden-Umsetzungsplan_Obsidian"
+              "title": "Zielkunden-Profil __ (Name des Kunden - Kundensegments)"
             }
           },
           {
-            "id": "f597b005017d1de2",
+            "id": "e426c4069718426d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Strategisch/1-01-Marketing/Elevator Pitch.md",
+                "file": "07-Operativ/Strukturkraft – 7-Stunden-Umsetzungsplan 🛠️.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -78,11 +78,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Elevator Pitch"
+              "title": "Strukturkraft – 7-Stunden-Umsetzungsplan 🛠️"
+            }
+          },
+          {
+            "id": "82bfa2c9410c5ca7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ziele-Plan 30-60-90 Tage – Strukturkraft mit To-Dos.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ziele-Plan 30-60-90 Tage – Strukturkraft mit To-Dos"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,13 +245,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "78dc6e5da0652c69",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 385.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,44 +278,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f597b005017d1de2",
+  "active": "3bbbc496f12f3f00",
   "lastOpenFiles": [
-    "01-Strategisch/1-00-Business-Plan/7-Stunden-Umsetzungsplan_Obsidian.md",
-    "01-Strategisch/1-01-Marketing/Elevator Pitch.md",
+    "03-Werbung&Vertrieb/03-01-Kunden",
+    "01-Strategisch/🚀 7-Stunden-Umsetzungsplan – Digital Growth Architecture.md",
+    "00-Templates/Zielkunden-Profil __ (Name des Kunden - Kundensegments).md",
+    "2_Zielkontrolle_und_Meilensteine.md",
+    "01-Strategisch/1-02-Stakeholder/1-02-01-staatl-Förderungen/foerderkompass-2025.pdf",
+    "Ziele-Plan 30-60-90 Tage – Strukturkraft mit To-Dos.md",
+    "🎯 61–90 Tage - Skalierung vorbereiten & Marketing starten.md",
+    "🎯 31–60 Tage - Pilotprojekte starten & Prozesse aufbauen.md",
+    "🎯 0–30 Tage - Grundlagen schaffen.md",
+    "07-Operativ/Strukturkraft – 7-Stunden-Umsetzungsplan 🛠️.md",
+    "Unbenannt.md",
+    "Kernbotschaft & Angebot.md",
+    "Technik-Setup.md",
+    "Vertriebsargumente.md",
+    "3_Akquise_ready_machen.md",
+    "2_Vertriebsunterlagen.md",
     "1_Businessplan_entwerfen.md",
-    "01-Strategisch/1-00-Business-Plan/Inhaltsverzeichnis_Digital_Growth_Architecture.md",
-    "Kernbotschaft.md",
+    "01-Strategisch/1-00-Business-Plan/1. Executive Summary.md",
+    "01-Strategisch/1-00-Business-Plan/10. Chancen, Risiken & Vision.md",
+    "01-Strategisch/1-00-Business-Plan/9. Finanzen & Kapitalbedarf.md",
+    "01-Strategisch/1-00-Business-Plan/8. Team & Umsetzung.md",
+    "01-Strategisch/1-00-Business-Plan/7. Geschäftsmodell & Einnahmen.md",
+    "01-Strategisch/1-00-Business-Plan/6. Marketing & Kundengewinnung.md",
+    "01-Strategisch/1-00-Business-Plan/5. Zielmarkt & Wettbewerb.md",
+    "01-Strategisch/1-02-Stakeholder/1-02-01-staatl-Förderungen",
+    "01-Strategisch/1-02-Stakeholder",
+    "foerderkompass.pdf.crdownload",
+    "01-Strategisch/1-01-Marketing/📄 Angebots-PDF (Textversion für 1–2 Seiten Handout).md",
+    "01-Strategisch/1-00-Business-Plan/4. Angebot & Monetarisierung.md",
+    "01-Strategisch/1-00-Business-Plan/3. Lösung – Die Strukturkraft-Architektur.md",
+    "99-Archiv",
+    "00-Templates",
     "01-Strategisch/1-00-Business-Plan/Nicht bestätigt 549483.crdownload",
     "Nicht bestätigt 708041.crdownload",
     "01-Strategisch/1-00-Business-Plan",
     "01-Strategisch/1-01-Marketing",
-    "07-Operativ/7-1-Infrastruktur",
-    "07-Operativ",
-    "06-Logistik",
-    "05-Service+Support",
-    "04-Produktion",
-    "03-Werbung&Vertrieb",
-    "2025-05-29 - Business Roll-Out TAG.md",
-    "Business Vision.md",
-    "01-Rituale/01-Tagesnotizen/2025-05-29.md",
-    "Noco DB.md",
-    "04-Templates/Tools & Apps.md",
-    "06-Themen/tools-und-apps zu KI-Sparring.md",
-    "Eigener Mailserver.md",
-    "04-Templates/neues-tool.md",
-    "plane.so.md",
-    "Strapi.io.md",
-    "CMS - free.md",
-    "Docmost.md",
-    "00-Inbox/RevOps oder Growth Marketing.md",
-    "00-Inbox/AutoGen Chat.md",
-    "00-Inbox/Meine Affirmation.md",
-    "01-Rituale/01-Tagesnotizen/2025-05-27.md",
-    "04-Templates/🤝 gpt-sparring.md",
-    "README.md",
-    "04-Templates/phase-2-notiz-template.md",
-    "03-Impulse/Vorlage - \"Klarheit schaffen\".md",
-    "03-Impulse/01-KI-Impulse/Die Perspektive der kreativen Zerstörung (Creative Destruction)**.md",
     "Unbenannt.canvas",
     "Unbenannt 1.canvas"
   ]

@@ -1,0 +1,6 @@
+
+[[Claim]]
+
+[[Elevator Pitch]]
+
+[[Positionierung]]

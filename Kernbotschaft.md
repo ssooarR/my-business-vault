@@ -7,4 +7,4 @@
 ---
 ### Verweise
 
-[[7-Stunden-Umsetzungsplan_Obsidian]] , 
+[[🚀 7-Stunden-Umsetzungsplan – Digital Growth Architecture]] , 
