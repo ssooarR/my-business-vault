@@ -21,6 +21,8 @@
   - [[Pitchdeck]]
   - [[E-Mail-Vorlage]]
   - [[LinkedIn-Post]]
+  - [[Lead_Liste]]
+  - [[Blueprint_Vorlage]]
 
 ---
 

@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Strategisch/1-00-Business-Plan/10. Chancen, Risiken & Vision.md",
+                "file": "01-Strategisch/1-01-Marketing/1-1-01-Strukturkraft/Kernbotschaft & Angebot.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,16 +54,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "10. Chancen, Risiken & Vision"
+              "title": "Kernbotschaft & Angebot"
             }
           },
           {
-            "id": "e426c4069718426d",
+            "id": "064cb0525f6d9230",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07-Operativ/Strukturkraft – 7-Stunden-Umsetzungsplan 🛠️.md",
+                "file": "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/🎯 0–30 Tage - Grundlagen schaffen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -78,7 +78,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Strukturkraft – 7-Stunden-Umsetzungsplan 🛠️"
+              "title": "🎯 0–30 Tage - Grundlagen schaffen"
+            }
+          },
+          {
+            "id": "6186b239a2bb1730",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/00 _ Strukturkraft – 7-Stunden-Umsetzungsplan 🛠️.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "00 _ Strukturkraft – 7-Stunden-Umsetzungsplan 🛠️"
             }
           },
           {
@@ -106,7 +130,37 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
+      },
+      {
+        "id": "48b919fc7806fb27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a691003792377c38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/🎯 0–30 Tage - Grundlagen schaffen.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "🎯 0–30 Tage - Grundlagen schaffen"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -278,45 +332,45 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3bd5ccfdb09e50f1",
+  "active": "a691003792377c38",
   "lastOpenFiles": [
-    "01-Strategisch/1-00-Business-Plan/9. Finanzen & Kapitalbedarf.md",
-    "01-Strategisch/1-00-Business-Plan/8. Team & Umsetzung.md",
-    "01-Strategisch/1-00-Business-Plan/7. Geschäftsmodell & Einnahmen.md",
-    "01-Strategisch/1-00-Business-Plan/6. Marketing & Kundengewinnung.md",
-    "01-Strategisch/1-00-Business-Plan/5. Zielmarkt & Wettbewerb.md",
-    "01-Strategisch/1-00-Business-Plan/4. Angebot & Monetarisierung.md",
-    "01-Strategisch/1-00-Business-Plan/3. Lösung – Die Strukturkraft-Architektur.md",
-    "01-Strategisch/1-00-Business-Plan/2. Problem & Zielgruppe.md",
-    "01-Strategisch/1-00-Business-Plan/1. Executive Summary.md",
-    "01-Strategisch/1-01-Marketing/Produktname.md",
-    "00-Templates/Zielkunden-Profil __ (Name des Kunden - Kundensegments).md",
-    "03-Werbung&Vertrieb/03-01-Kunden",
-    "01-Strategisch/🚀 7-Stunden-Umsetzungsplan – Digital Growth Architecture.md",
+    "xx-Strategisch/🚀 7-Stunden-Umsetzungsplan – Digital Growth Architecture.md",
+    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/00 _ Strukturkraft – 7-Stunden-Umsetzungsplan 🛠️.md",
     "2_Zielkontrolle_und_Meilensteine.md",
-    "01-Strategisch/1-02-Stakeholder/1-02-01-staatl-Förderungen/foerderkompass-2025.pdf",
-    "Ziele-Plan 30-60-90 Tage – Strukturkraft mit To-Dos.md",
-    "🎯 61–90 Tage - Skalierung vorbereiten & Marketing starten.md",
-    "🎯 31–60 Tage - Pilotprojekte starten & Prozesse aufbauen.md",
-    "🎯 0–30 Tage - Grundlagen schaffen.md",
-    "07-Operativ/Strukturkraft – 7-Stunden-Umsetzungsplan 🛠️.md",
-    "Unbenannt.md",
-    "Kernbotschaft & Angebot.md",
-    "Technik-Setup.md",
-    "Vertriebsargumente.md",
-    "3_Akquise_ready_machen.md",
-    "2_Vertriebsunterlagen.md",
-    "1_Businessplan_entwerfen.md",
-    "01-Strategisch/1-00-Business-Plan/10. Chancen, Risiken & Vision.md",
-    "01-Strategisch/1-02-Stakeholder/1-02-01-staatl-Förderungen",
-    "01-Strategisch/1-02-Stakeholder",
-    "foerderkompass.pdf.crdownload",
-    "99-Archiv",
-    "00-Templates",
-    "01-Strategisch/1-00-Business-Plan/Nicht bestätigt 549483.crdownload",
-    "Nicht bestätigt 708041.crdownload",
-    "01-Strategisch/1-00-Business-Plan",
-    "Unbenannt.canvas",
+    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/🎯 0–30 Tage - Grundlagen schaffen.md",
+    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/📄 Angebots-PDF (Textversion für 1–2 Seiten Handout).md",
+    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/Kernbotschaft & Angebot.md",
+    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/Kernbotschaft.md",
+    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/01 _ Businessplan Dokument/1. Executive Summary.md",
+    "01 - INBOX/Test.canvas",
+    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/01 _ Businessplan Dokument",
+    "01 - INBOX/digital_growth_architecture.md",
+    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/Technik-Setup.md",
+    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/Ziele-Plan 30-60-90 Tage – Strukturkraft mit To-Dos.md",
+    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/Vertriebsargumente.md",
+    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/STRUKTURKRAFT.md",
+    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/1_Businessplan_entwerfen.md",
+    "02 - IDEEN + IMPULSE/01 Recherche Material/foerderkompass-2025.pdf",
+    "00 - Templates/{{date}} - Recherche Notiz.md",
+    "02 - IDEEN + IMPULSE/01 Recherche Material",
+    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft",
+    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/🎯 31–60 Tage - Pilotprojekte starten & Prozesse aufbauen.md",
+    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/🎯 61–90 Tage - Skalierung vorbereiten & Marketing starten.md",
+    "06 - KUNDEN + PROJEKTE",
+    "05 - ANGEBOTE + FORMATE",
+    "04 - MOCs",
+    "03 - MODELLE + METHODEN",
+    "03 - BAUSTEINE",
+    "02 - IDEEN + IMPULSE",
+    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/01 _ Businessplan Dokument/Inhaltsverzeichnis_Digital_Growth_Architecture.md",
+    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/01 _ Businessplan Dokument/10. Chancen, Risiken & Vision.md",
+    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/01 _ Businessplan Dokument/9. Finanzen & Kapitalbedarf.md",
+    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/01 _ Businessplan Dokument/8. Team & Umsetzung.md",
+    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/01 _ Businessplan Dokument/7. Geschäftsmodell & Einnahmen.md",
+    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/01 _ Businessplan Dokument/6. Marketing & Kundengewinnung.md",
+    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/01 _ Businessplan Dokument/5. Zielmarkt & Wettbewerb.md",
+    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/01 _ Businessplan Dokument/4. Angebot & Monetarisierung.md",
+    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/01 _ Businessplan Dokument/3. Lösung – Die Strukturkraft-Architektur.md",
     "Unbenannt 1.canvas"
   ]
 }

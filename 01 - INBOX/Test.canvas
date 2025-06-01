@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"aea6093396f8a80b","x":-125,"y":-30,"width":250,"height":60,"color":"3","type":"text","text":"TEST - Was ist ein Canvas?"},
+		{"id":"b1fc8c7a215abae9","x":240,"y":30,"width":400,"height":400,"type":"file","file":"06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/1_Businessplan_entwerfen.md"},
+		{"id":"5b15b33dfb62e26d","x":240,"y":600,"width":400,"height":400,"type":"file","file":"06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/01 _ Businessplan Dokument/4. Angebot & Monetarisierung.md"}
+	],
+	"edges":[
+		{"id":"1e83351c23433aa3","fromNode":"b1fc8c7a215abae9","fromSide":"bottom","toNode":"5b15b33dfb62e26d","toSide":"top","toEnd":"none","label":"ah ha\n\n"}
+	]
+}
