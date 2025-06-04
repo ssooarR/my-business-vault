@@ -1,4 +1,4 @@
-
+		
 
 ## 1. Unternehmensübersicht
 - **Branche:**  
@@ -50,3 +50,4 @@
 ---
 ### Verweise
 [[Kunden]]
+[Zielkunden-Score-Sheet](https://docs.google.com/spreadsheets/d/1ZXsycmcd1XmSLYWUQjt208U8YDdhXkQDnjla07MT18Q/edit?usp=sharing)

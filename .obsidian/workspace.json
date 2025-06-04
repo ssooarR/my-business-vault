@@ -12,49 +12,21 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Strategisch/1-00-Business-Plan/7-Stunden-Umsetzungsplan_Obsidian.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "pinned": true,
               "icon": "lucide-file",
-              "title": "7-Stunden-Umsetzungsplan_Obsidian"
+              "title": "Neuer Tab"
             }
           },
           {
             "id": "3bd5ccfdb09e50f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Strategisch/1-01-Marketing/1-1-01-Strukturkraft/Kernbotschaft & Angebot.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Kernbotschaft & Angebot"
+              "title": "Neuer Tab"
             }
           },
           {
@@ -87,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/00 _ Strukturkraft – 7-Stunden-Umsetzungsplan 🛠️.md",
+                "file": "01 - INBOX/Zielkunden Score Sheet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -102,7 +74,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "00 _ Strukturkraft – 7-Stunden-Umsetzungsplan 🛠️"
+              "title": "Zielkunden Score Sheet"
             }
           },
           {
@@ -111,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ziele-Plan 30-60-90 Tage – Strukturkraft mit To-Dos.md",
+                "file": "00 - Templates/Zielkunden-Profil __ (Name des Kunden - Kundensegments).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -126,18 +98,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ziele-Plan 30-60-90 Tage – Strukturkraft mit To-Dos"
+              "title": "Zielkunden-Profil __ (Name des Kunden - Kundensegments)"
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "48b919fc7806fb27",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "a691003792377c38",
+            "id": "47e9b65411a742de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - INBOX/Lead-Liste.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lead-Liste"
+            }
+          },
+          {
+            "id": "dc51122f1011abd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,8 +148,98 @@
               "icon": "lucide-file",
               "title": "🎯 0–30 Tage - Grundlagen schaffen"
             }
+          },
+          {
+            "id": "13dbc7ab343e06db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - INBOX/Strukturkraft __ Website Clinic.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Strukturkraft __ Website Clinic"
+            }
+          },
+          {
+            "id": "96a60dae7978edc4",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "website-clinic.canvas",
+                "viewState": {
+                  "x": 54.85711669921875,
+                  "y": 62.476226806640625,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "website-clinic"
+            }
+          },
+          {
+            "id": "11da265aa3b6d8f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - INBOX/first principal thinking.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "first principal thinking"
+            }
+          },
+          {
+            "id": "2ddc3a0a8a10fcc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - INBOX/Tool-Liste - Website Clinic + Strategieentwicklung.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tool-Liste - Website Clinic + Strategieentwicklung"
+            }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -192,7 +271,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ziel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -315,7 +394,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 251.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -332,45 +411,45 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a691003792377c38",
+  "active": "11da265aa3b6d8f0",
   "lastOpenFiles": [
-    "xx-Strategisch/🚀 7-Stunden-Umsetzungsplan – Digital Growth Architecture.md",
-    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/00 _ Strukturkraft – 7-Stunden-Umsetzungsplan 🛠️.md",
-    "2_Zielkontrolle_und_Meilensteine.md",
-    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/🎯 0–30 Tage - Grundlagen schaffen.md",
-    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/📄 Angebots-PDF (Textversion für 1–2 Seiten Handout).md",
-    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/Kernbotschaft & Angebot.md",
-    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/Kernbotschaft.md",
-    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/01 _ Businessplan Dokument/1. Executive Summary.md",
+    "website-clinic.canvas",
+    "01 - INBOX/first principal thinking.md",
     "01 - INBOX/Test.canvas",
-    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/01 _ Businessplan Dokument",
-    "01 - INBOX/digital_growth_architecture.md",
-    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/Technik-Setup.md",
-    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/Ziele-Plan 30-60-90 Tage – Strukturkraft mit To-Dos.md",
-    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/Vertriebsargumente.md",
+    "01 - INBOX/Unbenannt.md",
+    "01 - INBOX/Strukturkraft __ Website Clinic.md",
+    "01 - INBOX/Tool-Liste - Website Clinic + Strategieentwicklung.md",
+    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/🎯 0–30 Tage - Grundlagen schaffen.md",
+    "01 - INBOX/Strukturkraft __ Website Clinic.html",
     "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/STRUKTURKRAFT.md",
-    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/1_Businessplan_entwerfen.md",
+    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/01 _ Businessplan Dokument/Inhaltsverzeichnis_Digital_Growth_Architecture.md",
+    "01 - INBOX/Lead-Liste.md",
+    "01 - INBOX/🏗️ Digitalisierungsbewertung der Websites.md",
+    "00 - Templates/Strukturkraft __ Website Clinic – Audit-Template.md",
+    "01 - INBOX/💡 Typische interaktive Funktionen.md",
+    "04 - MOCs/00 _ Strukturkraft – 7-Stunden-Umsetzungsplan 🛠️.md",
+    "01 - INBOX/Website Score Sheet.md",
+    "04 - MOCs/Website - Score Card.md",
+    "01 - INBOX/Bewertungskriterien - Website Qualität.md",
+    "00 - Templates/Zielkunden-Profil __ (Name des Kunden - Kundensegments).md",
+    "01 - INBOX/Unternehmens-Ziele verstehen.md",
+    "01 - INBOX/Zielkunden Score Sheet.md",
+    "01 - INBOX/digital_growth_architecture.md",
+    "Unbenannt.md",
+    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/📄 Angebots-PDF (Textversion für 1–2 Seiten Handout).md",
+    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/🎯 31–60 Tage - Pilotprojekte starten & Prozesse aufbauen.md",
+    "xx-Strategisch/🚀 7-Stunden-Umsetzungsplan – Digital Growth Architecture.md",
+    "2_Zielkontrolle_und_Meilensteine.md",
+    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/Kernbotschaft & Angebot.md",
+    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/01 _ Businessplan Dokument",
     "02 - IDEEN + IMPULSE/01 Recherche Material/foerderkompass-2025.pdf",
-    "00 - Templates/{{date}} - Recherche Notiz.md",
     "02 - IDEEN + IMPULSE/01 Recherche Material",
     "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft",
-    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/🎯 31–60 Tage - Pilotprojekte starten & Prozesse aufbauen.md",
-    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/🎯 61–90 Tage - Skalierung vorbereiten & Marketing starten.md",
     "06 - KUNDEN + PROJEKTE",
     "05 - ANGEBOTE + FORMATE",
     "04 - MOCs",
     "03 - MODELLE + METHODEN",
     "03 - BAUSTEINE",
-    "02 - IDEEN + IMPULSE",
-    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/01 _ Businessplan Dokument/Inhaltsverzeichnis_Digital_Growth_Architecture.md",
-    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/01 _ Businessplan Dokument/10. Chancen, Risiken & Vision.md",
-    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/01 _ Businessplan Dokument/9. Finanzen & Kapitalbedarf.md",
-    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/01 _ Businessplan Dokument/8. Team & Umsetzung.md",
-    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/01 _ Businessplan Dokument/7. Geschäftsmodell & Einnahmen.md",
-    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/01 _ Businessplan Dokument/6. Marketing & Kundengewinnung.md",
-    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/01 _ Businessplan Dokument/5. Zielmarkt & Wettbewerb.md",
-    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/01 _ Businessplan Dokument/4. Angebot & Monetarisierung.md",
-    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/01 _ Businessplan Dokument/3. Lösung – Die Strukturkraft-Architektur.md",
     "Unbenannt 1.canvas"
   ]
 }

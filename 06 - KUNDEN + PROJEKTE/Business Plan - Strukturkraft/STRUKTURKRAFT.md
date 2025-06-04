@@ -9,4 +9,4 @@ OKR
 Marketing
 
 Vertrieb
-
+- [[Lead-Liste]]
