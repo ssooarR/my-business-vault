@@ -1,0 +1,10 @@
+# System-Dateien
+.DS_Store
+Thumbs.db
+
+# Obsidian-spezifisch
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/cache
+.obsidian/.*
+.obsidian/plugin/
