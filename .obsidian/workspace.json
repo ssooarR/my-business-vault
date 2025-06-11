@@ -222,7 +222,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - Projektleitung.md",
+                "file": "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - 02 - Projektstruktur & Setup.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -237,7 +237,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Website - Projektleitung"
+              "title": "Website - 02 - Projektstruktur & Setup"
             }
           }
         ],
@@ -415,13 +415,23 @@
   },
   "active": "f75ed8a120644901",
   "lastOpenFiles": [
+    "00 - Templates/wordpress_projekt_dokumentation/05_Nachbetreuung_und_Pflege.md",
+    "00 - Templates/wordpress_projekt_dokumentation/04_Uebergabe_und_Abnahme.md",
+    "00 - Templates/wordpress_projekt_dokumentation/03_Inhalte_und_Befuellung.md",
+    "00 - Templates/wordpress_projekt_dokumentation/02_Projektstruktur_und_Setup.md",
+    "00 - Templates/wordpress_projekt_dokumentation/01_Erfolgskriterien_und_Kickoff.md",
+    "00 - Templates/wordpress_projekt_dokumentation",
+    "00 - Templates/wordpress_projekt_dokumentation.zip",
+    "00 - Templates/Nicht bestätigt 202353.crdownload",
+    "04 - MOCs/Projektsteuerung & -management.canvas",
+    "01 - INBOX/aus Microsoft Forms automatisch oder halbautomatisch in ein strukturiertes Dokument umwandeln..md",
+    "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - Projektleitung.md",
     "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - 05 - Nachbetreuung, Wartung & Pflegekonzept.md",
     "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - 04 - Technische Qualitätssicherung & Übergabe.md",
     "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - 03 - Kommunikation & Steuerung.md",
     "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - 03 - Kommunikation --Projekt-Update.md",
     "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - 02 - Projektstruktur & Setup.md",
     "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - 01 - Projekt Kickoff-Briefing.md",
-    "04 - MOCs/Projektsteuerung & -management.canvas",
     "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/Positionierung.md",
     "06 - KUNDEN + PROJEKTE/Paperless-Ngx einrichten.md",
     "06 - KUNDEN + PROJEKTE/Remote Zugriff auf unRaid-Server.md",
@@ -439,21 +449,11 @@
     "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/STRUKTURKRAFT.md",
     "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/01 _ Businessplan Dokument/Inhaltsverzeichnis_Digital_Growth_Architecture.md",
     "01 - INBOX/Lead-Liste.md",
-    "01 - INBOX/🏗️ Digitalisierungsbewertung der Websites.md",
-    "00 - Templates/Strukturkraft __ Website Clinic – Audit-Template.md",
-    "01 - INBOX/💡 Typische interaktive Funktionen.md",
-    "01 - INBOX/Website Score Sheet.md",
-    "04 - MOCs/Website - Score Card.md",
-    "01 - INBOX/Bewertungskriterien - Website Qualität.md",
-    "00 - Templates/Zielkunden-Profil __ (Name des Kunden - Kundensegments).md",
     "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/01 _ Businessplan Dokument",
     "02 - IDEEN + IMPULSE/01 Recherche Material/foerderkompass-2025.pdf",
     "02 - IDEEN + IMPULSE/01 Recherche Material",
     "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft",
     "06 - KUNDEN + PROJEKTE",
-    "05 - ANGEBOTE + FORMATE",
-    "04 - MOCs",
-    "03 - MODELLE + METHODEN",
     "Unbenannt 1.canvas"
   ]
 }
