@@ -8,3 +8,4 @@ Thumbs.db
 .obsidian/cache
 .obsidian/.*
 .obsidian/plugin/
+.obsidian/plugin/.*
