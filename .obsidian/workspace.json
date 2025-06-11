@@ -220,10 +220,24 @@
             "id": "f75ed8a120644901",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graphansicht"
+              "type": "markdown",
+              "state": {
+                "file": "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - Projektleitung.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Website - Projektleitung"
             }
           }
         ],
@@ -401,6 +415,13 @@
   },
   "active": "f75ed8a120644901",
   "lastOpenFiles": [
+    "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - 05 - Nachbetreuung, Wartung & Pflegekonzept.md",
+    "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - 04 - Technische Qualitätssicherung & Übergabe.md",
+    "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - 03 - Kommunikation & Steuerung.md",
+    "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - 03 - Kommunikation --Projekt-Update.md",
+    "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - 02 - Projektstruktur & Setup.md",
+    "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - 01 - Projekt Kickoff-Briefing.md",
+    "04 - MOCs/Projektsteuerung & -management.canvas",
     "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/Positionierung.md",
     "06 - KUNDEN + PROJEKTE/Paperless-Ngx einrichten.md",
     "06 - KUNDEN + PROJEKTE/Remote Zugriff auf unRaid-Server.md",
@@ -425,12 +446,6 @@
     "04 - MOCs/Website - Score Card.md",
     "01 - INBOX/Bewertungskriterien - Website Qualität.md",
     "00 - Templates/Zielkunden-Profil __ (Name des Kunden - Kundensegments).md",
-    "01 - INBOX/Unternehmens-Ziele verstehen.md",
-    "01 - INBOX/Zielkunden Score Sheet.md",
-    "01 - INBOX/digital_growth_architecture.md",
-    "Unbenannt.md",
-    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/📄 Angebots-PDF (Textversion für 1–2 Seiten Handout).md",
-    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/🎯 31–60 Tage - Pilotprojekte starten & Prozesse aufbauen.md",
     "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/01 _ Businessplan Dokument",
     "02 - IDEEN + IMPULSE/01 Recherche Material/foerderkompass-2025.pdf",
     "02 - IDEEN + IMPULSE/01 Recherche Material",

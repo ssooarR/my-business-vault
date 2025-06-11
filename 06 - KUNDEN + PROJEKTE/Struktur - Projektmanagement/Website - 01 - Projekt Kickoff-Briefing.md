@@ -89,3 +89,6 @@
 - **Noch ausstehende Entscheidungen:**  
 
 ---
+
+## Verweise & Notizen
+#projekt

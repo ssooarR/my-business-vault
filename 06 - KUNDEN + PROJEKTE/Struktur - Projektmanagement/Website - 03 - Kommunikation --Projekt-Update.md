@@ -11,3 +11,7 @@
 
 **Blocker / Fragen:**  
 - Google Fonts lokal oder via API?
+
+---
+## Verweise & Notizen
+#projekt #vorlage

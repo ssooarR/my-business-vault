@@ -53,3 +53,8 @@
 ### ✅ Erledigt
 - [x] Kickoff durchgeführt
 - [x] Zugangsdaten Hosting erhalten
+
+```
+
+## Verweise & Notizen
+#projekt

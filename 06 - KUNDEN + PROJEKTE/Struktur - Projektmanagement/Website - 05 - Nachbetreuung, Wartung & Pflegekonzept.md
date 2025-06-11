@@ -81,3 +81,9 @@ Dokumentation z. B. in Obsidian oder Notion, Export als PDF oder `.md` bereits
 
 **Kosten:** 49 €/Monat zzgl. MwSt.  
 **Kündigung:** monatlich zum Ende des Abrechnungszeitraums
+
+```
+
+## Verweise & Notizen
+#projekt
+

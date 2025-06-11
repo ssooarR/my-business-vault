@@ -73,3 +73,8 @@ Complianz / Cookiebot
 ## Optional
 - [ ] Analytics / Search Console eingerichtet
 - [ ] 301-Weiterleitungen bei Relaunch berücksichtigt
+
+```
+
+## Verweise & Notizen
+#projekt
