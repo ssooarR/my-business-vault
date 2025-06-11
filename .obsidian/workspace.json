@@ -8,28 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2136b4c0662a9dad",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "empty",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Neuer Tab"
-            }
-          },
-          {
-            "id": "3bd5ccfdb09e50f1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Neuer Tab"
-            }
-          },
-          {
             "id": "064cb0525f6d9230",
             "type": "leaf",
             "state": {
@@ -220,7 +198,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - INBOX/Tool-Liste - Website Clinic + Strategieentwicklung.md",
+                "file": "06 - KUNDEN + PROJEKTE/Paperless-Ngx einrichten.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -235,7 +213,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tool-Liste - Website Clinic + Strategieentwicklung"
+              "title": "Paperless-Ngx einrichten"
+            }
+          },
+          {
+            "id": "f75ed8a120644901",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graphansicht"
             }
           }
         ],
@@ -394,32 +382,38 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 385.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:Markdown Importprogramm öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
       "workspaces:Workspace-Layouts verwalten": false,
       "switcher:Schnellauswahl öffnen": false,
-      "graph:Graphen-Ansicht öffnen": false,
       "canvas:Neuen Canvas erstellen": false,
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
+      "markdown-importer:Markdown Importprogramm öffnen": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "3bbbc496f12f3f00",
+  "active": "f75ed8a120644901",
   "lastOpenFiles": [
+    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/Positionierung.md",
+    "06 - KUNDEN + PROJEKTE/Paperless-Ngx einrichten.md",
+    "06 - KUNDEN + PROJEKTE/Remote Zugriff auf unRaid-Server.md",
+    "04 - MOCs/s_1 - unRaid.md",
+    "04 - MOCs/00 _ Strukturkraft – 7-Stunden-Umsetzungsplan 🛠️.md",
+    "01 - INBOX/Tool-Liste - Website Clinic + Strategieentwicklung.md",
+    "06 - KUNDEN + PROJEKTE/unRaid-Server-Remote-Zugriff",
     "website-clinic.canvas",
+    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/🎯 0–30 Tage - Grundlagen schaffen.md",
     "01 - INBOX/first principal thinking.md",
     "01 - INBOX/Test.canvas",
     "01 - INBOX/Unbenannt.md",
     "01 - INBOX/Strukturkraft __ Website Clinic.md",
-    "01 - INBOX/Tool-Liste - Website Clinic + Strategieentwicklung.md",
-    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/🎯 0–30 Tage - Grundlagen schaffen.md",
     "01 - INBOX/Strukturkraft __ Website Clinic.html",
     "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/STRUKTURKRAFT.md",
     "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/01 _ Businessplan Dokument/Inhaltsverzeichnis_Digital_Growth_Architecture.md",
@@ -427,7 +421,6 @@
     "01 - INBOX/🏗️ Digitalisierungsbewertung der Websites.md",
     "00 - Templates/Strukturkraft __ Website Clinic – Audit-Template.md",
     "01 - INBOX/💡 Typische interaktive Funktionen.md",
-    "04 - MOCs/00 _ Strukturkraft – 7-Stunden-Umsetzungsplan 🛠️.md",
     "01 - INBOX/Website Score Sheet.md",
     "04 - MOCs/Website - Score Card.md",
     "01 - INBOX/Bewertungskriterien - Website Qualität.md",
@@ -438,9 +431,6 @@
     "Unbenannt.md",
     "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/📄 Angebots-PDF (Textversion für 1–2 Seiten Handout).md",
     "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/🎯 31–60 Tage - Pilotprojekte starten & Prozesse aufbauen.md",
-    "xx-Strategisch/🚀 7-Stunden-Umsetzungsplan – Digital Growth Architecture.md",
-    "2_Zielkontrolle_und_Meilensteine.md",
-    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/Kernbotschaft & Angebot.md",
     "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/01 _ Businessplan Dokument",
     "02 - IDEEN + IMPULSE/01 Recherche Material/foerderkompass-2025.pdf",
     "02 - IDEEN + IMPULSE/01 Recherche Material",
@@ -449,7 +439,6 @@
     "05 - ANGEBOTE + FORMATE",
     "04 - MOCs",
     "03 - MODELLE + METHODEN",
-    "03 - BAUSTEINE",
     "Unbenannt 1.canvas"
   ]
 }

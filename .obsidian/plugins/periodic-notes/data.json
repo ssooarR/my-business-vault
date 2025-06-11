@@ -3,8 +3,8 @@
   "hasMigratedDailyNoteSettings": true,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
-    "folder": "01-Rituale/01-Tagesnotizen",
-    "template": "04-Templates/🤝 gpt-sparring.md",
+    "folder": "00 - Templates/",
+    "template": "00 - Templates/🤝 gpt-sparring.md",
     "enabled": true,
     "format": "YYYY-MM-DD"
   },
