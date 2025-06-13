@@ -217,12 +217,12 @@
             }
           },
           {
-            "id": "f75ed8a120644901",
+            "id": "d46b9bdfd7a3bf78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - 02 - Projektstruktur & Setup.md",
+                "file": "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - 03 - Kommunikation & Steuerung.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -237,11 +237,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Website - 02 - Projektstruktur & Setup"
+              "title": "Website - 03 - Kommunikation & Steuerung"
+            }
+          },
+          {
+            "id": "f75ed8a120644901",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Templates/Strukturkraft __ Website Clinic – Audit-Template.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Strukturkraft __ Website Clinic – Audit-Template"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -273,7 +297,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ziel",
+                "query": "website clinic report",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -413,8 +437,25 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f75ed8a120644901",
+  "active": "3bbbc496f12f3f00",
   "lastOpenFiles": [
+    "00_Uebersicht.md",
+    "01 - INBOX/Unbenannt.md",
+    "03 - MODELLE + METHODEN/04-1 - Website-Clinic/Tool-Liste - Website Clinic & Strategieentwicklung.md",
+    "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - 04 - Technische Qualitätssicherung & Übergabe.md",
+    "03 - MODELLE + METHODEN/04-1 - Website-Clinic",
+    "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - 03 - Kommunikation & Steuerung.md",
+    "00 - Templates/Zielkunden-Profil __ (Name des Kunden - Kundensegments).md",
+    "01 - INBOX/Zielkunden Score Sheet.md",
+    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/🎯 0–30 Tage - Grundlagen schaffen.md",
+    "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - 05 - Nachbetreuung, Wartung & Pflegekonzept.md",
+    "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - Projektleitung.md",
+    "04 - MOCs/Projektsteuerung & -management.canvas",
+    "03 - BAUSTEINE/3-2 - Qualitätssicherung",
+    "03 - BAUSTEINE/3-1 - Projektsteuerung",
+    "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - 03 - Kommunikation --Projekt-Update.md",
+    "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - 02 - Projektstruktur & Setup.md",
+    "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - 01 - Projekt Kickoff-Briefing.md",
     "00 - Templates/wordpress_projekt_dokumentation/05_Nachbetreuung_und_Pflege.md",
     "00 - Templates/wordpress_projekt_dokumentation/04_Uebergabe_und_Abnahme.md",
     "00 - Templates/wordpress_projekt_dokumentation/03_Inhalte_und_Befuellung.md",
@@ -423,15 +464,7 @@
     "00 - Templates/wordpress_projekt_dokumentation",
     "00 - Templates/wordpress_projekt_dokumentation.zip",
     "00 - Templates/Nicht bestätigt 202353.crdownload",
-    "04 - MOCs/Projektsteuerung & -management.canvas",
     "01 - INBOX/aus Microsoft Forms automatisch oder halbautomatisch in ein strukturiertes Dokument umwandeln..md",
-    "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - Projektleitung.md",
-    "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - 05 - Nachbetreuung, Wartung & Pflegekonzept.md",
-    "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - 04 - Technische Qualitätssicherung & Übergabe.md",
-    "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - 03 - Kommunikation & Steuerung.md",
-    "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - 03 - Kommunikation --Projekt-Update.md",
-    "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - 02 - Projektstruktur & Setup.md",
-    "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - 01 - Projekt Kickoff-Briefing.md",
     "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/Positionierung.md",
     "06 - KUNDEN + PROJEKTE/Paperless-Ngx einrichten.md",
     "06 - KUNDEN + PROJEKTE/Remote Zugriff auf unRaid-Server.md",
@@ -440,20 +473,11 @@
     "01 - INBOX/Tool-Liste - Website Clinic + Strategieentwicklung.md",
     "06 - KUNDEN + PROJEKTE/unRaid-Server-Remote-Zugriff",
     "website-clinic.canvas",
-    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/🎯 0–30 Tage - Grundlagen schaffen.md",
     "01 - INBOX/first principal thinking.md",
     "01 - INBOX/Test.canvas",
-    "01 - INBOX/Unbenannt.md",
-    "01 - INBOX/Strukturkraft __ Website Clinic.md",
     "01 - INBOX/Strukturkraft __ Website Clinic.html",
-    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/STRUKTURKRAFT.md",
-    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/01 _ Businessplan Dokument/Inhaltsverzeichnis_Digital_Growth_Architecture.md",
-    "01 - INBOX/Lead-Liste.md",
     "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/01 _ Businessplan Dokument",
     "02 - IDEEN + IMPULSE/01 Recherche Material/foerderkompass-2025.pdf",
-    "02 - IDEEN + IMPULSE/01 Recherche Material",
-    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft",
-    "06 - KUNDEN + PROJEKTE",
     "Unbenannt 1.canvas"
   ]
 }

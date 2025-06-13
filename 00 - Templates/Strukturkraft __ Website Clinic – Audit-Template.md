@@ -1,4 +1,4 @@
-# 🧪 Strukturkraft Website Clinic – Audit-Template
+	# 🧪 Strukturkraft Website Clinic – Audit-Template
 
 ## 🔍 1. Technische Qualität
 | Prüfkriterium                     | Bewertung (0–5) | Notizen / Befunde                             |

@@ -12,16 +12,16 @@
 
 ### 🔧 Technischer Stack
 
-| Bereich               | Tool / Empfehlung               | Bemerkung                                  |
-|-----------------------|----------------------------------|---------------------------------------------|
-| Hosting               | IONOS, All-Inkl, Raidboxes       | je nach Kundensituation                     |
-| WP-Stack              | Bedrock oder klassisch mit Setup-Skript | optional mit Git-Verwaltung            |
-| Deployment            | Manuell via Install Script, ggf. WP-CLI | Backup & Rollback beachten             |
-| Editor                | Elementor, Gutenberg (ACF Blocks) | keine Overengineering, einfache Pflege     |
-| ACF / CPT             | ACF Pro + CPT UI / Custom Code   | konsistente Datenstruktur                   |
-| Theme-Struktur        | Starter-Theme (z. B. Hello, Underscores) | anpassbar mit Child-Theme              |
-| Git Repo              | GitHub / GitLab / self-hosted    | für Änderungsverfolgung + Backup            |
-| Container (optional)  | LocalWP oder DDEV                | für lokale Entwicklung                      |
+| Bereich              | Tool / Empfehlung                        | Bemerkung                              |
+| -------------------- | ---------------------------------------- | -------------------------------------- |
+| Hosting              | IONOS, All-Inkl, Raidboxes               | je nach Kundensituation                |
+| WP-Stack             | Bedrock oder klassisch mit Setup-Skript  | optional mit Git-Verwaltung            |
+| Deployment           | Manuell via Install Script, ggf. WP-CLI  | Backup & Rollback beachten             |
+| Editor               | Elementor, Gutenberg (ACF Blocks)        | keine Overengineering, einfache Pflege |
+| ACF / CPT            | ACF Pro + CPT UI / Custom Code           | konsistente Datenstruktur              |
+| Theme-Struktur       | Starter-Theme (z. B. Hello, Underscores) | anpassbar mit Child-Theme              |
+| Git Repo             | GitHub / GitLab / self-hosted            | für Änderungsverfolgung + Backup       |
+| Container (optional) | LocalWP oder DDEV                        | für lokale Entwicklung                 |
 
 ---
 

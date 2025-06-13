@@ -25,8 +25,27 @@
 - Fragen / Antworten
 
 ---
+### 2.  Kommunikationsform
+- [[Website - 03 - Kommunikation --Projekt-Update]]
+- 
 
-### 2. Aufgabensteuerung
+---
+### 3. Zeitpunkt und Rythmus
+- wöchentlich / monatlich / jährlich
+- Kick-Off
+- Freigabe
+
+|                      | jour-fix | Beginn | in Progress | Abschluss |
+| -------------------- | :------: | :----: | :---------: | --------- |
+| Projekt-Update       |    x     |        |             |           |
+| Kick-Off             |          |   x    |             |           |
+| Go-Live Checklist    |          |        |      x      |           |
+| Abschlussprotokoll   |          |        |             | x         |
+| Projektdokumentation |          |        |             | x         |
+
+---
+
+### 3. Aufgabensteuerung
 - Tool: [Trello] [ClickUp] [Notion] [GitHub] [Sonstiges: ________]
 - Verantwortlichkeiten:
   - Projektleitung
