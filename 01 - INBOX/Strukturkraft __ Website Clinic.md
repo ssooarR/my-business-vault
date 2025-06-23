@@ -75,4 +75,8 @@ Für Geschäftsführer:innen und Marketingverantwortliche in mittelständischen 
 ---
 
 **Strukturkraft – Architektur für stabiles Wachstum.**
-	
+
+
+
+### Verweise
+[[3_Akquise_ready_machen]]

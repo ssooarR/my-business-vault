@@ -104,36 +104,12 @@
             }
           },
           {
-            "id": "dc51122f1011abd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/🎯 0–30 Tage - Grundlagen schaffen.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "🎯 0–30 Tage - Grundlagen schaffen"
-            }
-          },
-          {
             "id": "13dbc7ab343e06db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - INBOX/Strukturkraft __ Website Clinic.md",
+                "file": "03 - MODELLE + METHODEN/04-1 - Website-Clinic/Tool-Liste - Website Clinic & Strategieentwicklung.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,33 +124,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Strukturkraft __ Website Clinic"
+              "title": "Tool-Liste - Website Clinic & Strategieentwicklung"
             }
           },
           {
             "id": "96a60dae7978edc4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "website-clinic.canvas",
-                "viewState": {
-                  "x": 54.85711669921875,
-                  "y": 62.476226806640625,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "website-clinic"
-            }
-          },
-          {
-            "id": "11da265aa3b6d8f0",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - INBOX/first principal thinking.md",
+                "file": "01 - INBOX/Zielkunden Score Sheet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -189,16 +148,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "first principal thinking"
+              "title": "Zielkunden Score Sheet"
             }
           },
           {
-            "id": "2ddc3a0a8a10fcc3",
+            "id": "afa7c5cd5f41244f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - KUNDEN + PROJEKTE/Paperless-Ngx einrichten.md",
+                "file": "01 - INBOX/Website Projekt Steuerung.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -213,35 +172,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Paperless-Ngx einrichten"
+              "title": "Website Projekt Steuerung"
             }
           },
           {
-            "id": "d46b9bdfd7a3bf78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - 03 - Kommunikation & Steuerung.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Website - 03 - Kommunikation & Steuerung"
-            }
-          },
-          {
-            "id": "f75ed8a120644901",
+            "id": "303898db45a6c606",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -263,9 +198,47 @@
               "icon": "lucide-file",
               "title": "Strukturkraft __ Website Clinic – Audit-Template"
             }
+          },
+          {
+            "id": "db363b06f1cd365b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - MODELLE + METHODEN/04-1 - Website-Clinic/Tool-Liste - Website Clinic & Strategieentwicklung.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tool-Liste - Website Clinic & Strategieentwicklung"
+            }
+          },
+          {
+            "id": "1f62d2d475334a02",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://app.contadu.com/tools/keywords-grouper",
+                "title": "Free keyword clustering and grouping tool | CONTADU",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Free keyword clustering and grouping tool | CONTADU"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -437,47 +410,48 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3bbbc496f12f3f00",
+  "active": "96a60dae7978edc4",
   "lastOpenFiles": [
-    "00_Uebersicht.md",
-    "01 - INBOX/Unbenannt.md",
+    "01 - INBOX/Website Score Sheet.md",
+    "01 - INBOX/Strukturkraft __ Website Clinic.md",
+    "04 - MOCs/Website - Score Card.md",
+    "website-clinic.canvas",
+    "00 - Templates/Strukturkraft __ Website Clinic – Audit-Template.md",
+    "01 - INBOX/Website Projekt Steuerung.md",
     "03 - MODELLE + METHODEN/04-1 - Website-Clinic/Tool-Liste - Website Clinic & Strategieentwicklung.md",
+    "Tips-and-Tricks - Git Documentation - Obsidian Publish.md",
+    "00_Uebersicht.md",
+    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/3_Akquise_ready_machen.md",
+    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/1_Businessplan_entwerfen.md",
+    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/📄 Angebots-PDF (Textversion für 1–2 Seiten Handout).md",
+    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/🎯 61–90 Tage - Skalierung vorbereiten & Marketing starten.md",
+    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/🎯 31–60 Tage - Pilotprojekte starten & Prozesse aufbauen.md",
+    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/🎯 0–30 Tage - Grundlagen schaffen.md",
+    "04 - MOCs/Unbenannt.canvas",
+    "01 - INBOX/first principal thinking.md",
+    "06 - KUNDEN + PROJEKTE/Paperless-Ngx einrichten.md",
+    "01 - INBOX/Tool-Liste - Website Clinic + Strategieentwicklung.md",
+    "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - 03 - Kommunikation & Steuerung.md",
+    "Nicht bestätigt 656182.crdownload",
+    "Clippings/Tips-and-Tricks.md",
+    "01 - INBOX/SSH Zugriff auf ssh-key umstellen.md",
+    "Clippings",
+    "04 - MOCs/s_1 - unRaid.md",
+    "00 - Templates/wordpress_projekt_dokumentation/01_Erfolgskriterien_und_Kickoff.md",
+    "00 - Templates/wordpress_projekt_dokumentation/05_Nachbetreuung_und_Pflege.md",
+    "00 - Templates/wordpress_projekt_dokumentation/03_Inhalte_und_Befuellung.md",
+    "01 - INBOX/Unbenannt.md",
     "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - 04 - Technische Qualitätssicherung & Übergabe.md",
     "03 - MODELLE + METHODEN/04-1 - Website-Clinic",
-    "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - 03 - Kommunikation & Steuerung.md",
-    "00 - Templates/Zielkunden-Profil __ (Name des Kunden - Kundensegments).md",
-    "01 - INBOX/Zielkunden Score Sheet.md",
-    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/🎯 0–30 Tage - Grundlagen schaffen.md",
-    "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - 05 - Nachbetreuung, Wartung & Pflegekonzept.md",
-    "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - Projektleitung.md",
     "04 - MOCs/Projektsteuerung & -management.canvas",
     "03 - BAUSTEINE/3-2 - Qualitätssicherung",
     "03 - BAUSTEINE/3-1 - Projektsteuerung",
-    "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - 03 - Kommunikation --Projekt-Update.md",
-    "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - 02 - Projektstruktur & Setup.md",
-    "06 - KUNDEN + PROJEKTE/Struktur - Projektmanagement/Website - 01 - Projekt Kickoff-Briefing.md",
-    "00 - Templates/wordpress_projekt_dokumentation/05_Nachbetreuung_und_Pflege.md",
-    "00 - Templates/wordpress_projekt_dokumentation/04_Uebergabe_und_Abnahme.md",
-    "00 - Templates/wordpress_projekt_dokumentation/03_Inhalte_und_Befuellung.md",
-    "00 - Templates/wordpress_projekt_dokumentation/02_Projektstruktur_und_Setup.md",
-    "00 - Templates/wordpress_projekt_dokumentation/01_Erfolgskriterien_und_Kickoff.md",
     "00 - Templates/wordpress_projekt_dokumentation",
     "00 - Templates/wordpress_projekt_dokumentation.zip",
     "00 - Templates/Nicht bestätigt 202353.crdownload",
-    "01 - INBOX/aus Microsoft Forms automatisch oder halbautomatisch in ein strukturiertes Dokument umwandeln..md",
-    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/Positionierung.md",
-    "06 - KUNDEN + PROJEKTE/Paperless-Ngx einrichten.md",
-    "06 - KUNDEN + PROJEKTE/Remote Zugriff auf unRaid-Server.md",
-    "04 - MOCs/s_1 - unRaid.md",
-    "04 - MOCs/00 _ Strukturkraft – 7-Stunden-Umsetzungsplan 🛠️.md",
-    "01 - INBOX/Tool-Liste - Website Clinic + Strategieentwicklung.md",
     "06 - KUNDEN + PROJEKTE/unRaid-Server-Remote-Zugriff",
-    "website-clinic.canvas",
-    "01 - INBOX/first principal thinking.md",
     "01 - INBOX/Test.canvas",
     "01 - INBOX/Strukturkraft __ Website Clinic.html",
-    "06 - KUNDEN + PROJEKTE/Business Plan - Strukturkraft/01 _ Businessplan Dokument",
-    "02 - IDEEN + IMPULSE/01 Recherche Material/foerderkompass-2025.pdf",
     "Unbenannt 1.canvas"
   ]
 }
